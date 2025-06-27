@@ -1,0 +1,1 @@
+Adjusting required reserve percentage to equal 100% of largest load as requirement. Removed standard 3%. Description updated as of 4/13/2025

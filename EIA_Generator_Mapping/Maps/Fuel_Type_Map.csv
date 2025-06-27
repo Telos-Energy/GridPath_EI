@@ -1,0 +1,60 @@
+﻿Technology,Prime_Mover,Fuel_Type_Detail,Fuel_Type_Simple
+,FC,Other,OTHER
+All Other,CC,Other CC,OTHER
+All Other,GT,Other CT,OTHER
+All Other,IC,Other IC,OTHER
+All Other,OT,OTHER,OTHER
+All Other,ST,Other ST,OTHER
+Batteries,BA,BATTERY STORAGE,BATTERY STORAGE
+Coal Integrated Gasification Combined Cycle,CA,Coal CC,COAL
+Coal Integrated Gasification Combined Cycle,CT,Coal CC,COAL
+Conventional Hydroelectric,HY,Hydro,HYDRO
+Conventional Steam Coal,ST,Coal ST,COAL
+Flywheels,FW,Storage,PUMPED STORAGE
+Geothermal,BT,Geothermal,GEOTHERMAL
+Geothermal,ST,Geothermal,GEOTHERMAL
+Hydroelectric Pumped Storage,PS,PSH,PUMPED STORAGE
+Landfill Gas,CA,Biogas CC,OTHER
+Landfill Gas,CT,Biogas CC,OTHER
+Landfill Gas,FC,Other,OTHER
+Landfill Gas,GT,Biogas CT,OTHER
+Landfill Gas,IC,Biogas IC,OTHER
+Landfill Gas,ST,Biogas ST,OTHER
+Municipal Solid Waste,ST,Biomass ST,BIOMASS
+Natural Gas Fired Combined Cycle,CA,NG CC,GAS
+Natural Gas Fired Combined Cycle,CC,NG CC,GAS
+Natural Gas Fired Combined Cycle,CS,NG CC,GAS
+Natural Gas Fired Combined Cycle,CT,NG CC,GAS
+Natural Gas Fired Combustion Turbine,GT,NG CT,GAS
+Natural Gas Internal Combustion Engine,IC,NG IC,GAS
+Natural Gas Steam Turbine,ST,NG ST,GAS
+Natural Gas with Compressed Air Storage,CE,NG CT,GAS
+Nuclear,ST,Nuclear,NUCLEAR
+Offshore Wind Turbine,WS,OSW,OSW
+Onshore Wind Turbine,WT,LBW,LBW
+Other Gases,CA,Other CC,OTHER
+Other Gases,GT,Other CT,OTHER
+Other Gases,IC,Other IC,OTHER
+Other Gases,OT,Other,OTHER
+Other Gases,ST,Other ST,OTHER
+Other Natural Gas,FC,Other,OTHER
+Other Waste Biomass,CA,Biomass CC,BIOMASS
+Other Waste Biomass,CT,Biomass CC,BIOMASS
+Other Waste Biomass,FC,Other,BIOMASS
+Other Waste Biomass,GT,Biomass CT,BIOMASS
+Other Waste Biomass,IC,Biomass IC,BIOMASS
+Other Waste Biomass,OT,Other,BIOMASS
+Other Waste Biomass,ST,Biomass ST,BIOMASS
+Petroleum Coke,OT,Coal Other,COAL
+Petroleum Coke,ST,Coal ST,COAL
+Petroleum Liquids,CA,Oil CC,OIL
+Petroleum Liquids,CT,Oil CC,OIL
+Petroleum Liquids,GT,Oil CT,OIL
+Petroleum Liquids,IC,Oil IC,OIL
+Petroleum Liquids,ST,Oil ST,OIL
+Solar Photovoltaic,PV,UPV,UPV
+Solar Thermal with Energy Storage,CP,CSP,UPV
+Solar Thermal without Energy Storage,OT,CSP,UPV
+Solar Thermal without Energy Storage,ST,CSP,UPV
+Wood/Wood Waste Biomass,OT,Biomass ST,BIOMASS
+Wood/Wood Waste Biomass,ST,Biomass ST,BIOMASS

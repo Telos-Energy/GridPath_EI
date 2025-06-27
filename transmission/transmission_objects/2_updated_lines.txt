@@ -1,0 +1,1 @@
+Using updated Canadian limits, SPP_S to SPP_N no longer 0, preventing 0 MW winter limits when 0 MW summer rating. Description updated as of 3/12/2025

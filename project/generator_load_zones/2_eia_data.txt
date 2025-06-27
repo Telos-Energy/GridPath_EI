@@ -1,0 +1,1 @@
+Using Telos-created mapping of EIA-860 data to Eastern Interconnect Regions. Removed Canadian load zones in favor of proxy gens. Description updated as of 4/13/2025

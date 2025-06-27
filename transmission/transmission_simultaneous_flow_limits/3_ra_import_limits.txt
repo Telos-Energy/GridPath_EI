@@ -1,0 +1,1 @@
+Using updated Canadian limits, adding 3 additional interface limits for all of MISO, PJM, and SPP import lines. See connection in simultaneous_flow_groups folder. Description updated as of 3/12/2025

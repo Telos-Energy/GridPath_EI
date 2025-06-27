@@ -1,0 +1,1 @@
+Using Telos-created mapping of EIA-860 data to Eastern Interconnect Regions, but removing proxy gens that represent firm imports. All Canadian regions removed. Description updated as of 4/13/2025
