@@ -1,0 +1,107 @@
+{
+    // Use IntelliSense TO learn about possible attributes.
+    // Hover TO view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "GridPath: Create New Database",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:\\PATH\\TO\\VENV_NAME\\lib\\site-packages\\db\\create_database.py",
+            "console": "integratedTerminal",
+            "args": ["--database", "C:\\PATH\\TO\\DATABASE_FOLDER\\gridpath.db", "--data_direcTOry", "C:\\PATH\\TO\\VENV_NAME\\lib\\site-packages\\db\\data"],
+            "justMyCode": false
+        },
+        {
+            "name": "GridPath: Load CSVs into Database",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:\\PATH\\TO\\VENV_NAME\\lib\\site-packages\\db\\Utilities\\port_csvs_to_db.py",
+            "console": "integratedTerminal",
+            "args": ["--database", "C:\\PATH\\TO\\DATABASE_FOLDER\\gridpath.db", "--csv_location", "C:\\PATH\\TO\\CLONED_REPO\\EI_RA_GridPath_User_Guide",],
+            "justMyCode": false
+        },
+        {
+            "name": "GridPath: Load Scenarios",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:\\PATH\\TO\\VENV_NAME\\lib\\site-packages\\db\\Utilities\\scenario.py",
+            "console": "integratedTerminal",
+            "args": ["--database", "C:\\PATH\\TO\\DATABASE_FOLDER\\gridpath.db", "--csv_path","C:\\PATH\\TO\\CLONED_REPO\\EI_RA_GridPath_User_Guide\\scenarios.csv"],
+            "justMyCode": false
+        },
+        {
+            "name": "GridPath: Run End to End (All Steps, All Results)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:\\PATH\\TO\\VENV_NAME\\lib\\site-packages\\gridpath\\run_end_TO_end.py",
+            "console": "integratedTerminal",
+            "args": ["--database", "C:\\PATH\\TO\\DATABASE_FOLDER\\gridpath.db", "--scenario", "SCENARIO_NAME","--scenario_location","PATH_TO_LOCAL_LOCATION_TO_PRINT_RESULTS", "--n_parallel_solve", "10", "--n_parallel_get_inputs", "10", ],
+            "justMyCode": false
+        },
+        {
+            "name": "GridPath: Run End to End (All Steps, USE Results Only)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:\\PATH\\TO\\VENV_NAME\\lib\\site-packages\\gridpath\\run_end_TO_end.py",
+            "console": "integratedTerminal",
+            "args": ["--database", "C:\\PATH\\TO\\DATABASE_FOLDER\\gridpath.db", "--scenario", "SCENARIO_NAME","--scenario_location","PATH_TO_LOCAL_LOCATION_TO_PRINT_RESULTS", "--n_parallel_solve", "10", "--n_parallel_get_inputs", "10", "--results_export_rule", "USE"],
+            "justMyCode": false
+        },
+        {
+            "name": "GridPath: Run End to End (Get Inputs Only)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:\\PATH\\TO\\VENV_NAME\\lib\\site-packages\\gridpath\\run_end_TO_end.py",
+            "console": "integratedTerminal",
+            "args": ["--database", "C:\\PATH\\TO\\DATABASE_FOLDER\\gridpath.db", "--scenario", "SCENARIO_NAME","--scenario_location","PATH_TO_LOCAL_LOCATION_TO_PRINT_RESULTS", "--n_parallel_solve", "10", "--n_parallel_get_inputs", "10",  "--single_e2e_step", "get_inputs"],
+            "justMyCode": false
+        },
+        {
+            "name": "GridPath: Run End to End (Run Scenario Only, All Results)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:\\PATH\\TO\\VENV_NAME\\lib\\site-packages\\gridpath\\run_end_TO_end.py",
+            "console": "integratedTerminal",
+            "args": ["--database", "C:\\PATH\\TO\\DATABASE_FOLDER\\gridpath.db", "--scenario", "SCENARIO_NAME","--scenario_location","PATH_TO_LOCAL_LOCATION_TO_PRINT_RESULTS", "--n_parallel_solve", "10", "--n_parallel_get_inputs", "10",  "--single_e2e_step", "run_scenario"],
+            "justMyCode": false
+        },
+        {
+            "name": "GridPath: Run End to End (Run Scenario Only, USE Results Only)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:\\PATH\\TO\\VENV_NAME\\lib\\site-packages\\gridpath\\run_end_TO_end.py",
+            "console": "integratedTerminal",
+            "args": ["--database", "C:\\PATH\\TO\\DATABASE_FOLDER\\gridpath.db", "--scenario", "SCENARIO_NAME","--scenario_location","PATH_TO_LOCAL_LOCATION_TO_PRINT_RESULTS", "--n_parallel_solve", "10", "--n_parallel_get_inputs", "10",  "--single_e2e_step", "run_scenario","--results_export_rule", "USE"],
+            "justMyCode": false
+        },
+        {
+            "name": "GridPath: Run End to End (Import Results Only)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:\\PATH\\TO\\VENV_NAME\\lib\\site-packages\\gridpath\\run_end_TO_end.py",
+            "console": "integratedTerminal",
+            "args": ["--database", "C:\\PATH\\TO\\DATABASE_FOLDER\\gridpath.db", "--scenario", "SCENARIO_NAME","--scenario_location","PATH_TO_LOCAL_LOCATION_TO_PRINT_RESULTS", "--n_parallel_solve", "10", "--n_parallel_get_inputs", "10",  "--single_e2e_step", "import_results"],
+            "justMyCode": false
+        },
+        {
+            "name": "GridPath: Run End to End (Process Results Only)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "C:\\PATH\\TO\\VENV_NAME\\lib\\site-packages\\gridpath\\run_end_TO_end.py",
+            "console": "integratedTerminal",
+            "args": ["--database", "C:\\PATH\\TO\\DATABASE_FOLDER\\gridpath.db", "--scenario", "SCENARIO_NAME","--scenario_location","PATH_TO_LOCAL_LOCATION_TO_PRINT_RESULTS", "--n_parallel_solve", "10", "--n_parallel_get_inputs", "10",  "--single_e2e_step", "process_results"],
+            "justMyCode": false
+        },
+
+    
+    ]
+}

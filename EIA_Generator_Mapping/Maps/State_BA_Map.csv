@@ -1,0 +1,178 @@
+﻿State,BA_Code,State_BA_Region
+AK,,Exclude
+AL,SOCO,SERC-SE
+TX,EPE,ERCOT
+MN,MISO,MISO-W
+CA,CISO,County
+AL,TVA,SERC-C
+KY,PJM,PJM-W
+NE,SWPP,SPP-N
+AK,NA,Exclude
+NY,NYIS,NYISO
+WA,PSEI,Washington Region
+AZ,SRP,Southwest
+IA,SWPP,SPP-N
+AZ,AZPS,Southwest
+AZ,TEPC,Southwest
+GA,TVA,SERC-C
+FL,SEC,SERC-FL
+CA,BANC,Northern California
+AZ,WALC,Southwest
+NV,WALC,Wasatch Front
+UT,PACE,Wasatch Front
+CA,TIDC,Southern California
+MN,SWPP,SPP-N
+AR,MISO,MISO-S
+ND,SWPP,SPP-N
+SD,SWPP,SPP-N
+IL,MISO,MISO-C
+CA,PACW,Oregon Region
+TX,ERCO,ERCOT
+CA,IID,Southern California
+CA,LDWP,Southern California
+WA,BPAT,Washington Region
+IL,PJM,PJM-W
+CA,WALC,County
+CO,PSCO,Front Range
+CO,WACM,Front Range
+WY,WAUW,County
+CT,ISNE,ISONE
+MA,ISNE,ISONE
+WA,AVA,Washington Region
+FL,FMPP,SERC-FL
+NM,WACM,Front Range
+VT,ISNE,ISONE
+DE,PJM,PJM-E
+MD,PJM,PJM-S
+FL,FPL,SERC-FL
+WA,SCL,Washington Region
+FL,FPC,SERC-FL
+FL,SOCO,SERC-FL
+FL,TEC,SERC-FL
+GA,SOCO,SERC-SE
+FL,GVL,SERC-FL
+FL,HST,SERC-FL
+FL,JEA,SERC-FL
+FL,TAL,SERC-FL
+KS,SWPP,SPP-S
+GA,SCEG,SERC-SE
+GA,SEPA,SERC-SE
+IA,AECI,SERC-C
+HI,,Exclude
+ID,PACE,Wasatch Front
+ME,ISNE,ISONE
+ID,IPCO,Wasatch Front
+ID,AVA,Wasatch Front
+ID,BPAT,Wasatch Front
+WA,GCPD,Washington Region
+IN,PJM,PJM-W
+IN,MISO,MISO-C
+KY,LGEE,SERC-C
+IA,MISO,MISO-W
+OK,SWPP,SPP-S
+KY,TVA,SERC-C
+MO,AECI,SERC-C
+MO,SPA,SERC-C
+KY,MISO,MISO-C
+LA,MISO,MISO-S
+AR,SPA,SERC-C
+ME,NBSO,ISONE
+MI,MISO,MISO-E
+MI,PJM,PJM-W
+WI,MISO,MISO-W
+AR,SWPP,SPP-S
+MS,SOCO,SERC-SE
+MS,MISO,MISO-S
+MO,MISO,MISO-C
+NC,TVA,SERC-C
+TN,TVA,SERC-C
+MT,MISO,Wastach Front
+MT,NWMT,Wastach Front
+WY,NWMT,Wastach Front
+MT,AVA,Wasatch Front
+MT,BPAT,Wasatch Front
+MT,WAUW,Wastach Front
+NV,NEVP,Wastach Front
+NH,ISNE,ISONE
+NJ,PJM,PJM-E
+NM,AZPS,Front Range
+NM,EPE,Front Range
+MO,SWPP,SPP-S
+NM,PNM,Front Range
+MS,TVA,SERC-C
+NC,PJM,PJM-S
+TN,PJM,SERC-C
+ND,MISO,MISO-W
+LA,SWPP,SPP-S
+OH,PJM,PJM-W
+NM,SWPP,SPP-S
+OR,IPCO,Oregon Region
+OR,PACW,Oregon Region
+OR,PGE,Oregon Region
+OR,BPAT,Oregon Region
+PA,PJM,County
+RI,ISNE,ISONE
+AR,AECI,SERC-C
+VA,TVA,SERC-C
+SC,SC,SERC-E
+NC,CPLE,SERC-E
+SD,WACM,Front Range
+OK,SPA,SERC-C
+SD,MISO,MISO-W
+NC,DUK,SERC-E
+TX,MISO,MISO-S
+TX,SWPP,SPP-S
+UT,WACM,Wasatch Front
+VA,PJM,County
+WA,PACW,Washington Region
+WA,CHPD,Washington Region
+WA,DOPD,Washington Region
+WA,TPWR,Washington Region
+WV,PJM,PJM-W
+WY,PACE,County
+WY,WACM,Front Range
+WY,BPAT,Wasatch Front
+UT,WAUW,Wasatch Front
+NY,ISNE,NYISO
+MT,PACE,Wasatch Front
+UT,LDWP,Wasatch Front
+CA,NEVP,Wasatch Front
+RI,NA,ISONE
+SC,CPLE,SERC-E
+OK,AECI,SERC-C
+HI,NA,Exclude
+NJ,NYIS,NYISO
+SC,DUK,SERC-E
+NV,CISO,Wasatch Front
+SC,SCEG,SERC-E
+OR,AVRN,Oregon Region
+AZ,GRIF,Southwest
+AZ,DEAA,Southwest
+OR,GRID,Oregon Region
+SC,SEPA,SERC-E
+AZ,HGMA,Southwest
+OK,ERCO,ERCOT
+HI,HECO,Exclude
+NE,WACM,Front Range
+WA,AVRN,Washington Region
+MT,SWPP,Wasatch Front
+MT,GWA,Wasatch Front
+AZ,CISO,Southwest
+DC,PJM,PJM-S
+MT,WWA,Wasatch Front
+WA,PGE,Washington Region
+NV,LDWP,Wasatch Front
+CO,SWPP,Wasatch Front
+NC,YAD,SERC-E
+ND,WACM,Front Range
+NM,GRIS,Front Range
+NC,SEPA,SERC-E
+NC,CPLW,SERC-E
+NM,TEPC,Front Range
+CO,PACE,Front Range
+MN,PJM,MISO-W
+MT,PSEI,Wasatch Front
+WY,CISO,County
+GA,DUK,SERC-SE
+ME,NA,ISONE
+NM,,Front Range

@@ -1,0 +1,17 @@
+transmission_line,capacity_type
+MISO_C_to_MISO_E,tx_spec
+MISO_C_to_MISO_S,tx_spec
+MISO_C_to_MISO_W,tx_spec
+MISO_E_to_MISO_C,tx_spec
+MISO_E_to_MISO_W,tx_spec
+MISO_S_to_MISO_C,tx_spec
+MISO_W_to_MISO_C,tx_spec
+MISO_W_to_MISO_E,tx_spec
+PJM_E_to_PJM_S,tx_spec
+PJM_E_to_PJM_W,tx_spec
+PJM_S_to_PJM_E,tx_spec
+PJM_S_to_PJM_W,tx_spec
+PJM_W_to_PJM_E,tx_spec
+PJM_W_to_PJM_S,tx_spec
+SPP_N_to_SPP_S,tx_spec
+SPP_S_to_SPP_N,tx_spec

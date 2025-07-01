@@ -1,0 +1,158 @@
+EIA_Plant_ID,EIA_Generator_ID,EIA_Plant_Name,Status,Install_Year,Retirement_Year,Sync_To_Grid,Summer_Capacity_MW,Winter_Capacity_MW,Primary_Energy_Source,Secondary_Energy_Source,Technology,Prime_Mover,Source,Latitude,Longitude,NERC_Region,BA_Code,State,County,Transmission_Owner,Region,Type,Retired_Flag,New_Install_Flag,State_BA_Region,Planning_Region,Fuel_Type_Detail,Fuel_Type_Simple,Dual_Fuel,Interconnect,Notes
+1125,6,Bancroft,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from MISO-W to SPP-N
+1125,7,Bancroft,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from MISO-W to SPP-N
+1142,4,Graettinger,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from MISO-W to SPP-N
+1142,5,Graettinger,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from MISO-W to SPP-N
+1142,6,Graettinger,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from MISO-W to SPP-N
+1145,IC1,Grundy Center City Light Plant,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from MISO-W to SPP-N
+1145,IC2,Grundy Center City Light Plant,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from MISO-W to SPP-N
+1145,IC3,Grundy Center City Light Plant,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from MISO-W to SPP-N
+1153,3,Lake Park,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from MISO-W to SPP-N
+1153,G2,Lake Park,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from MISO-W to SPP-N
+1186,GT1,Spencer Gas Turbine,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from MISO-W to SPP-N
+1191,G1,Sumner,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from MISO-W to SPP-N
+1191,G2,Sumner,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from MISO-W to SPP-N
+1191,G3,Sumner,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from MISO-W to SPP-N
+1198,6,Webster City,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from MISO-W to SPP-N
+1263,5,Belleville,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from SPP-S to SPP-N
+1263,6,Belleville,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from SPP-S to SPP-N
+1263,7,Belleville,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from SPP-S to SPP-N
+1263,8,Belleville,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from SPP-S to SPP-N
+2098,1,Lake Road (MO),,,,,,,,,,,,,,,,,,,,,,,,SPP-S,,,,,Per conversation on MO split of SPP-S and SPP-N
+2098,2,Lake Road (MO),,,,,,,,,,,,,,,,,,,,,,,,SPP-S,,,,,Per conversation on MO split of SPP-S and SPP-N
+2098,3,Lake Road (MO),,,,,,,,,,,,,,,,,,,,,,,,SPP-S,,,,,Per conversation on MO split of SPP-S and SPP-N
+2098,4,Lake Road (MO),,,,,,,,,,,,,,,,,,,,,,,,SPP-S,,,,,Per conversation on MO split of SPP-S and SPP-N
+2098,5,Lake Road (MO),,,,,,,,,,,,,,,,,,,,,,,,SPP-S,,,,,Per conversation on MO split of SPP-S and SPP-N
+2098,6,Lake Road (MO),,,,,,,,,,,,,,,,,,,,,,,,SPP-S,,,,,Per conversation on MO split of SPP-S and SPP-N
+2098,7,Lake Road (MO),,,,,,,,,,,,,,,,,,,,,,,,SPP-S,,,,,Per conversation on MO split of SPP-S and SPP-N
+6204,1,Laramie River Station,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Per review of utilities in SPP. Basin Electric Power Coop participates in SPP EI and Laramie 1 is sited at an RTO/ISO LMP Node in EIA 860
+10156,BESS1,Fresno Cogen Partners,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+50064,4,University of California Santa Cruz,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+50064,18027,University of California Santa Cruz,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+50064,246,University of California Santa Cruz,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+55339,GEN1,Phoenix Wind Power LLC,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+55608,GEN1,Foote Creek II,,,,,,,,,,,,,,,,,,,,,,,,WASATCH FRONT,,,,,Similar County_State mappings go to Wasatch Fron
+55609,GEN1,Foote Creek III,,,,,,,,,,,,,,,,,,,,,,,,WASATCH FRONT,,,,,Assigned to WASATCH FRONT due to other generators in the county
+55610,GEN1,Foote Creek IV,,,,,,,,,,,,,,,,,,,,,,,,WASATCH FRONT,,,,,Assigned to WASATCH FRONT due to other generators in the county
+55719,MVWR,Mountain View I & II,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+56134,601,Regional Wastewater Control Facility,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+56194,1,Dike City Power Plant,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Moved from MISO-W to SPP-N
+56478,1,MJMEUC Generating Station #1,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Remapped to SPP-N based on review of zonal SPP maps
+56510,GEN1,Frey Farm Landfill,,,,,,,,,,,,,,,,,,,,,,,,PJM_E,,,,,Based on transmission owner associated with Pennslyvania Power & Light Zone zone
+56606,1,Culbertson Generation Station,,,,,,,,,,,,,,,,,,,,,,,,SPP-N,,,,,Per review of utilities in SPP. Basin Electric Power Coop participates in SPP EI and Laramie 1 is sited at an RTO/ISO LMP Node in EIA 860
+60095,BLST4,"Blythe Solar IV, LLC",,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+60192,NFCP2,North Fork Community Power,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+60316,SCBS,Scott Solar Farm,,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Based on transmission owner associated with Dominion Virginia Power zone
+60696,1,Nodal Power,,,,,,,,,,,,,,,,,,,,,,,,FRONT RANGE,,,,,Existing generator mapping to Front Range
+60696,2,Nodal Power,,,,,,,,,,,,,,,,,,,,,,,,FRONT RANGE,,,,,Existing generator mapping to Front Range
+60791,BA1&2,SunAnza,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+60791,BA3,SunAnza,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+62703,EQX05,Equinix Lundy Ave. Fuel Cell,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+63173,P1,Orange Street G1,,,,,,,,,,,,,,,,,,,,,,,,PJM-W,,,,,Assigned to PJM-W due to other generators in the county
+63173,P2,Orange Street G1,,,,,,,,,,,,,,,,,,,,,,,,PJM-W,,,,,Assigned to PJM-W due to other generators in the county
+63173,P3,Orange Street G1,,,,,,,,,,,,,,,,,,,,,,,,PJM-W,,,,,Assigned to PJM-W due to other generators in the county
+63173,P4,Orange Street G1,,,,,,,,,,,,,,,,,,,,,,,,PJM-W,,,,,Assigned to PJM-W due to other generators in the county
+63173,P5,Orange Street G1,,,,,,,,,,,,,,,,,,,,,,,,PJM-W,,,,,Assigned to PJM-W due to other generators in the county
+64448,GEN1,Wythe County Solar,,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Assigned to PJM-S due to other generators in the county
+64993,BB2BA,"BigBeau Solar, LLC",,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+64993,BB2PV,"BigBeau Solar, LLC",,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+65617,3998G,BBARWA,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+66450,PB4,Quakertown PA BTM,,,,,,,,,,,,,,,,,,,,,,,,PJM-E,,,,,Assigned to PJM-E due to other generators in the county
+66494,NOVA4,Menifee Power Bank,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+66494,NOVA5,Menifee Power Bank,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+66799,4087G,Bishop Ranch - BR 1-Y,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+66799,4087R,Bishop Ranch - BR 1-Y,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+66943,2-114,Pine 1 Solar,,,,,,,,,,,,,,,,,,,,,,,,PJM-W,,,,,Based on transmission owner associated with Duquesne Lighting Company zone
+66944,2-115,Pine 2 Solar,,,,,,,,,,,,,,,,,,,,,,,,PJM-W,,,,,Based on transmission owner associated with Duquesne Lighting Company zone
+66946,LHESS,"Lockhart ESS, LLC",,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+66948,VSPRC,"VS BC Pacific Gateway, LLC",,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+66949,1,Sagebrush Solar 2 ESS 40,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+66950,1,Sagebrush Solar 2 ESS 59,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+66953,PE328,CPA 3777 Workman,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+66957,PE901,CPA 2132 E Dominguez,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+66959,PE001,CPA Wilmington 1,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+66996,METER,Hemings Solar,,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Based on transmission owner associated with Old Dominion Electric Cooperative
+66997,METER,Monroe Solar,,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Based on transmission owner associated with Old Dominion Electric Cooperative
+66999,SLDO,Solidago Solar,,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Based on transmission owner associated with Dominion Virginia Power zone
+67000,15612,Cawelo Water District Solar,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67001,93311,"Sunny Cow Solar, LLC",,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67028,METER,Randolf Solar,,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Assigned to PJM-S due to other generators in the county
+67030,ELKHO,Elkhorn Dairy,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67039,NO1,"Northern Orchard Solar PV, LLC",,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67039,NOBAT,"Northern Orchard Solar PV, LLC",,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67072,METER,Small Mouth Bass Solar,,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Based on transmission owner associated with Old Dominion Electric Cooperative
+67073,CEYK,"Case Vander Eyk, Jr Dairy Solar",,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67092,PSLBA,Paulsell,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67092,PSLPV,Paulsell,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67093,GEN 1,Mojave 16/17/18 BESS,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67105,CPP01,Pastoria Solar,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67118,1,Santee BESS,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67137,GC2,Great Cove Solar II,,,,,,,,,,,,,,,,,,,,,,,,PJM-W,,,,,Based on transmission owner associated with Allegheny Power zone
+67169,EBMUD,Bear Creek Solar (CA),,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67170,ASBA,Amazon SAN3 Solar Project,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67170,ASSP,Amazon SAN3 Solar Project,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67171,F2024,Foxhound,,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Based on transmission owner associated with Dominion Virginia Power zone
+67179,19038,Cabrillo College,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67225,1,Amherst Solar Facility (VA),,,,,,,,,,,,,,,,,,,,,,,,PJM-W,,,,,Based on transmission owner associated with American Electric Power zone
+67229,HGLPT,Trestles Grid LLC,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67235,11111,Cunningham Solar LLC,,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Assigned to PJM-S due to other generators in the county
+67241,401SB,401 South,,,,,,,,,,,,,,,,,,,,,,,,ISONE,,,,,"In Massachusetts, seems like a BA_Code Typo"
+67241,4SPV1,401 South,,,,,,,,,,,,,,,,,,,,,,,,ISONE,,,,,"In Massachusetts, seems like a BA_Code Typo"
+67247,MESA,Mesa Wind Repower,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67272,P5412,The Village at Orchard Ridge (TVOR),,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Assigned to PJM-S due to other generators in the county
+67277,4657B,Bishop Ranch - BR 15-DD,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67277,4657C,Bishop Ranch - BR 15-DD,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67277,4657R,Bishop Ranch - BR 15-DD,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67278,4146B,Bishop Ranch - BR 2600,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67278,4146C,Bishop Ranch - BR 2600,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67278,4147R,Bishop Ranch - BR 2600,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67283,6569,Six Flags Magic Mountain,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67283,6569B,Six Flags Magic Mountain,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67299,10101,Pome BESS,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67342,CARV,Carvers Creek Solar,,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Based on transmission owner associated with Dominion Virginia Power zone
+67342,CARV2,Carvers Creek Solar,,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Based on transmission owner associated with Dominion Virginia Power zone
+67373,IRISH,"TPE Irish Road Solar, LLC",,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Assigned to PJM-S due to other generators in the county with matching Transmission Owner
+67374,WHITM,"TPE Whitmell Solar, LLC",,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Assigned to PJM-S due to other generators in the county with matching Transmission Owner
+67420,CAVPV,Cavalier Solar,,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Based on transmission owner associated with Dominion Virginia Power zone
+67421,CAVA2,Cavalier Solar A2,,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Based on transmission owner associated with Dominion Virginia Power zone
+67432,DBL-J,Double J Dairy Array,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67463,MGPV1,Mineral Gap,,,,,,,,,,,,,,,,,,,,,,,,SERC-C,,,,,All SERC LGEE generators are in SERC-C
+67485,CG101,Union Sanitary District Cogen,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67485,CG102,Union Sanitary District Cogen,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67509,19064,Grossmont College,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67512,LNOAK,Lone Oak,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67529,AUGUS,"Augusta CSG, LLC",,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Based on transmission owner associated with Dominion Virginia Power zone
+67530,WAYNE,"Waynesboro Bridge Solar, LLC Community Solar",,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Based on transmission owner associated with Dominion Virginia Power zone
+67531,SUFFO,"Suffolk CSG, LLC",,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Based on transmission owner associated with Dominion Virginia Power zone
+67532,FAIRF,"Fairfield Lee Solar, LLC Community Solar",,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Based on transmission owner associated with Dominion Virginia Power zone
+67579,ALMT2,AES ES Alamitos 2 LLC,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67602,17444,Zonneveld Oak Grove,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67603,18821,River Ranch Dairy,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67648,30200,Rio Vista Solar,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67680,KOLA,Kola Energy Center,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67691,731,Kern Front,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67695,823,Holtville,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67706,GEN1,Spring Lane,,,,,,,,,,,,,,,,,,,,,,,,PJM-W,,,,,Based on transmission owner associated with Allegheny Power zone
+67729,20234,"Jackson Solar WI, LLC",,,,,,,,,,,,,,,,,,,,,,,,MISO-W,,,,,Seems like a State typo. County is in WI
+67743,4057B,Bishop Ranch BR 1-X,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67743,4057C,Bishop Ranch BR 1-X,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67743,4057R,Bishop Ranch BR 1-X,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67764,RBESS,Rosamond South 1,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67764,RS1,Rosamond South 1,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67770,30200,Pittsburg RV Solar,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67793,OPSKY,Open Sky Ranch Inc,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67794,PV1,City of Atwater NEM,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67818,CIDFL,Corcoran Irrigation District Floating Solar,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67820,DXCRK,Dixie Creek Dairy Solar,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67828,MES1,Mordor ES1,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67829,MES2,Mordor ES2,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67835,64544,Costa View Farms,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67846,RIVA,Rivanna Solar,,,,,,,,,,,,,,,,,,,,,,,,PJM-S,,,,,Based on transmission owner associated with Dominion Virginia Power zone
+67853,PV1,Delta Electronics Fremont,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67853,PV4,Delta Electronics Fremont,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67863,TWC,TWC,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67866,10221,Paso Robles - Municipal Airport,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67868,HF1,Harris Farms Solar Facility,,,,,,,,,,,,,,,,,,,,,,,,Northern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67878,BESS1,Chula Vista Energy Cneter 2,,,,,,,,,,,,,,,,,,,,,,,,Southern California,,,,,From Ryan's County Mapping in 2030 Non-SPP Capacity Mix
+67899,GEN5,PNY BESS LLC,,,,,,,,,,,,,,,,,,,,,,,,PJM-E,,,,,Based on transmission owner associated with PECO Energy zone
+67905,RDR1,Roadrunner Reserve Phase 1,,,,,,,,,,,,,,,,,,,,,,,,SOUTHWEST,,,,,Generator in Arizona
